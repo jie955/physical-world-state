@@ -6,6 +6,7 @@ Zhang Jie · Independent Researcher · July 2026
 
 
 📄 **[Read the full paper (PDF)](From_Event_Memory_to_Physical_World_State_Position_Paper.pdf)** — 11 pages, 54 references
+🇨🇳 中文全译版 — 从事件记忆到物理世界状态：论机器人世界模型缺失的变量
 
 ---
 
