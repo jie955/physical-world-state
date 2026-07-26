@@ -4,7 +4,7 @@
 
 Zhang Jie · Independent Researcher · July 2026
 
-arXiv: *pending endorsement — ID will be added here once assigned*
+
 
 📄 **[Read the full paper (PDF)](From_Event_Memory_to_Physical_World_State_Position_Paper.pdf)** — 11 pages, 54 references
 
